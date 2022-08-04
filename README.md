@@ -1,0 +1,1 @@
+# App-Multi-Idiomas-RN
